@@ -23,6 +23,12 @@ is found.
 ## Goal C
 I'm gonna add a way to do everything without brackets. Fight me.
 
+## TODO
+- Remove everything from `extensions/`
+- Add external methods for defining what other brackets do
+- Remove test scripts which no longer apply
+- Add more TODO items
+
 # GLisp
 
 Below is the original readme text from Glisp; you can find more at the
