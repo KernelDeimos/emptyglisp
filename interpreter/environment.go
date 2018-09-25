@@ -1,4 +1,4 @@
-package glisp
+package emptyglisp
 
 import (
 	"bufio"

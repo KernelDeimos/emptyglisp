@@ -1,4 +1,4 @@
-package glisp
+package emptyglisp
 
 func IsArray(expr Sexp) bool {
 	switch expr.(type) {
